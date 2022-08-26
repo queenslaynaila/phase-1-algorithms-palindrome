@@ -9,12 +9,12 @@ function isPalindrome(word) {
 
 /* 
   Add your pseudocode here
-  Writet function isPalindrome
-  isPalindrom takes a string as argument
-  it reverses the string letters
-  if the value of the string reversed is the same as the string
-      return false
-      else true
+  Declare a function isPalindrom 
+    take in a word argument 
+     reverse the letters in word
+      if the word reversed is same as word
+                                return false
+                               else true
 */
 
 /*
